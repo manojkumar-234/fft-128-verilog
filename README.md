@@ -38,9 +38,8 @@ The design is fully modular and hierarchical:
 
 ## 📂 Project Structure
 
-* `rtl/` → Verilog source code
-* `tb/` → Testbench files
-* `docs/` → Architecture diagrams
+* `module files` → Verilog source code
+* `module files/testbench` → Testbench file
 
 ## 🚧 Status
 
